@@ -1,8 +1,8 @@
 {
   "name": "随变壁纸导入",
   "icon": "icon.png",
-  "version": "0.9.3",
-  "description": "选一张 336×480 的 PNG 原样推送到手表「随变壁纸」快应用；非标准尺寸请用内置裁剪工具链接处理",
+  "version": "0.9.4",
+  "description": "自动识别手环/手表：手环要 336×480、手表要 432×514 的 PNG，原样推送到「随变壁纸」快应用；点选图时自动唤起该快应用",
   "author": "迟雪",
   "website": "https://github.com/yamu81663-dot/suibian-wallpaper-plugin",
   "entry": "plugin.wasm",
